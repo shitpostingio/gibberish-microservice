@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"github.com/AlessandroPomponio/go-gibberish/gibberish"
-	"gitlab.com/shitposting/analysis-api/services/structs"
+	"github.com/shitpostingio/analysis-commons/structs"
 	"io/ioutil"
 	"log"
 	"net/http"
